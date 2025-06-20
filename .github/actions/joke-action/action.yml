@@ -1,0 +1,14 @@
+name: "my joke action"
+<<<<<<< HEAD
+
+description: "use an external API to retrieve and display a joke"
+
+outputs:
+  joke-output:
+    description: The resulting joke from the icanhazdadjokes API
+
+runs:
+  using: "node16"
+  main: "main.js"
+=======
+>>>>>>> 85f05667aae721be0e1b9f4162154aeff6c179e1
